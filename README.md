@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-2214&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-2214" /> </p>
 
-- 🔭 I’m currently working on **Data Analysis and Flutter Projects**
+- 🔭 I’m currently working on **Several Data Science Projects**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning, Statistical Modelling**
 
