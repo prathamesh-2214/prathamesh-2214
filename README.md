@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Deshpande</h1>
-<h3 align="center">Student at DYPIU, Akurdi</h3>
+<h3 align="center">Student at Indian Institute of Technology, Indore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-2214&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-2214" /> </p>
 
-- 🔭 I’m currently working on **Several Data Science Projects**
-
-- 🌱 I’m currently learning **Data Science and Machine Learning, Statistical Modelling**
-
-- 👯 I’m looking to collaborate on **Full Stack Application Projects**
-
-- 💬 Ask me about **Python, MySQL, MATLAB**
+- 💬 Ask me about **Python, MySQL, MATLAB, Docker, AWS , Linux, Shell Scripting, CI/CD, DevOps, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **deshpandeprathamesh137@gmail.com**
 
