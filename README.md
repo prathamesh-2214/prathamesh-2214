@@ -1,35 +1,34 @@
 ```text
-========================================================================
-  __  __                  _       ____            _                  _ 
- |  \/  | __ _ _ __   ___| |__   |  _ \ _ __ ___ (_) ___  _ __   __ | |
- | |\/| |/ _` | '_ \ / __| '_ \  | |_) | '__/ _ \| |/ _ \| '_ \ / _` | |
- | |  | | (_| | | | | (__| | | | |  __/| | | (_) | | (_) | | | | (_| | |
- |_|  |_|\__,_|_| |_|\___|_| |_| |_|   |_|  \___/|_|\___/|_| |_|\__,_|_|
-                                                                        
-========================================================================
- [SYSTEM] STATUS: ONLINE | ARCHITECTURE: EDGE-CLOUD CONTINUUM
+╔══════════════════════════════════════════════════════════════════════╗
+║                          PRATHAMESH DESHPANDE                        ║
+║                 [ Systems Architecture & Distributed Systems ]        ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+ > ROOT DIRECTORY ACCESS... SUCCESS
+ > LOADING PROFILE MATRIX... OK
+
 ------------------------------------------------------------------------
+ [ 01 // OVERVIEW ]
+------------------------------------------------------------------------
+ Systems programmer and researcher operating at the intersection of low-level 
+ code and high-scale distributed environments. Focused on engineering 
+ resilient serverless paradigms, distributed edge platforms, and 
+ robust cloud infrastructure.
 
- > [CORE DIRECTIVE]:
-   Building fault-tolerant serverless paradigms, stripping away 
-   centralized control bottlenecks, and orchestrating high-performance 
-   distributed systems.
+------------------------------------------------------------------------
+ [ 02 // STACK & CAPABILITIES ]
+------------------------------------------------------------------------
+ • Languages    :: C, C++, Go, Python, SQL, Bash
+ • Infrastructure:: AWS, Docker, Kubernetes, Linux, GitLab
+ • Domains      :: Distributed Systems, Serverless Edge Computing, FaaS
 
- > [THE ARSENAL]:
-   [Languages]     --> C, C++, Go, Python, Bash
-   [Infrastructure]--> AWS, Docker, Kubernetes, Linux, Git
-   [Paradigms]     --> Serverless Computing, Distributed Systems, FaaS
-
- > [ACTIVE FREQUENCIES]:
-   * Low-level systems programming & microarchitecture workflows
-   * Decentralized task offloading & serverless edge orchestration
-   * High-availability cluster management and network resilience
-
- > [TRANSMISSION LINES]:
-   * GitHub:    [github.com/prathamesh-2214](https://github.com/prathamesh-2214)
-   * LinkedIn:  [linkedin.com/in/prathamesh-d-a71360219](https://linkedin.com/in/prathamesh-d-a71360219)
-   * Direct:    ms2504101008@iiti.ac.in
+------------------------------------------------------------------------
+ [ 03 // FREQUENCY // CHANNELS ]
+------------------------------------------------------------------------
+ • GitHub   :: [github.com/prathamesh-2214](https://github.com/prathamesh-2214)
+ • LinkedIn :: [linkedin.com/in/prathamesh-d-a71360219](https://linkedin.com/in/prathamesh-d-a71360219)
+ • Terminal :: ms2504101008@iiti.ac.in
 
 ========================================================================
-                     "ज्ञानम् अनहिताय"
+ [STATUS: SEARCHING FOR NEXT CHALLENGE...]
 ========================================================================
