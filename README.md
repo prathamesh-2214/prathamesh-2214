@@ -1,34 +1,21 @@
+<h1 align="center">Prathamesh Deshpande</h1>
+<p align="center">
+  <em>MS (Research) Scholar @ IIT Indore[cite: 5] | IndiaAI Fellow[cite: 5] | Systems & Distributed Computing Engineer</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Exploring%20New%20Horizons-success?style=for-the-badge&logo=reactivex" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-Distributed%20Systems%20%26%20Edge-blue?style=for-the-badge&logo=linux" alt="Focus"/>
+</p>
+
+---
+
+### ⚡ About Me
+
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                          PRATHAMESH DESHPANDE                        ║
-║                 [ Systems Architecture & Distributed Systems ]        ║
-╚══════════════════════════════════════════════════════════════════════╝
-
- > ROOT DIRECTORY ACCESS... SUCCESS
- > LOADING PROFILE MATRIX... OK
-
-------------------------------------------------------------------------
- [ 01 // OVERVIEW ]
-------------------------------------------------------------------------
- Systems programmer and researcher operating at the intersection of low-level 
- code and high-scale distributed environments. Focused on engineering 
- resilient serverless paradigms, distributed edge platforms, and 
- robust cloud infrastructure.
-
-------------------------------------------------------------------------
- [ 02 // STACK & CAPABILITIES ]
-------------------------------------------------------------------------
- • Languages    :: C, C++, Go, Python, SQL, Bash
- • Infrastructure:: AWS, Docker, Kubernetes, Linux, GitLab
- • Domains      :: Distributed Systems, Serverless Edge Computing, FaaS
-
-------------------------------------------------------------------------
- [ 03 // FREQUENCY // CHANNELS ]
-------------------------------------------------------------------------
- • GitHub   :: [github.com/prathamesh-2214](https://github.com/prathamesh-2214)
- • LinkedIn :: [linkedin.com/in/prathamesh-d-a71360219](https://linkedin.com/in/prathamesh-d-a71360219)
- • Terminal :: ms2504101008@iiti.ac.in
-
-========================================================================
- [STATUS: SEARCHING FOR NEXT CHALLENGE...]
-========================================================================
++-----------------------------------------------------------------+
+|  Operating at the intersection of low-level systems programming |
+|  and high-scale distributed environments. Passionate about        |
+|  architecting resilient serverless frameworks, edge platforms,  |
+|  and robust cloud infrastructure.                               |
++-----------------------------------------------------------------+
