@@ -1,19 +1,38 @@
-<h1 align="center">Hi 👋, I'm Prathamesh Deshpande</h1>
-<h3 align="center">Student at Indian Institute of Technology, Indore</h3>
+# Hey there, I'm Prathamesh Deshpande[cite: 5] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-2214&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-2214" /> </p>
+<p align="center">
+  <em>MS (Research) Scholar @ IIT Indore[cite: 5] | IndiaAI Fellow[cite: 5] | Systems & Distributed Computing Wizard</em>
+</p>
 
-- 💬 Ask me about **Python, MySQL, MATLAB, Docker, AWS , Linux, Shell Scripting, CI/CD, DevOps, Machine Learning, Deep Learning**
+---
 
-- 📫 How to reach me **deshpandeprathamesh137@gmail.com**
+### ⚡ What Drives Me
+I love living at the intersection of low-level systems programming and distributed architectures. My current playground revolves around building fault-tolerant serverless paradigms, eliminating centralized control bottlenecks, and orchestrating high-performance edge-cloud computing pipelines.
 
+---
 
+### 🛠️ The Arsenal
+* **Languages:** C, C++, Go, Python, SQL, Bash[cite: 5]
+* **Cloud & Infrastructure:** AWS (Certified Solutions Architect – Associate)[cite: 5], Docker, Kubernetes, Linux, GitLab[cite: 5]
+* **Frameworks & Tooling:** TensorFlow[cite: 5], Streamlit[cite: 5]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-2214&show_icons=true&locale=en&layout=compact" alt="prathamesh-2214" /></p>
+### 🏅 Trophies & Milestones
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh-2214&show_icons=true&locale=en" alt="prathamesh-2214" /></p>
+* **IndiaAI Fellowship** — Awarded by IndiaAI (Feb. 2026)[cite: 5]
+* **Gold Medal** — B.Tech CSE Batch of 2024, DYPIU, Pune[cite: 5]
+* **Thumbs Up Award** — Recognition for outstanding engineering contributions at Pitney Bowes (Nov. 2023)[cite: 5]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-2214&" alt="prathamesh-2214" /></p>
+---
+
+### 🌐 Let's Connect
+
+* **LinkedIn:** [prathamesh-d-a71360219](https://linkedin.com/in/prathamesh-d-a71360219)[cite: 5]
+* **Mail:** ms2504101008@iiti.ac.in / deshpandeprathamesh137@gmail.com[cite: 5]
+
+---
+
+<p align="center">
+  <em>"ज्ञानम् अनहिताय"[cite: 5]</em>
+</p>
