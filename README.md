@@ -1,38 +1,35 @@
-# Hey there, I'm Prathamesh Deshpande[cite: 5] 👋
+```text
+========================================================================
+  __  __                  _       ____            _                  _ 
+ |  \/  | __ _ _ __   ___| |__   |  _ \ _ __ ___ (_) ___  _ __   __ | |
+ | |\/| |/ _` | '_ \ / __| '_ \  | |_) | '__/ _ \| |/ _ \| '_ \ / _` | |
+ | |  | | (_| | | | | (__| | | | |  __/| | | (_) | | (_) | | | | (_| | |
+ |_|  |_|\__,_|_| |_|\___|_| |_| |_|   |_|  \___/|_|\___/|_| |_|\__,_|_|
+                                                                        
+========================================================================
+ [SYSTEM] STATUS: ONLINE | ARCHITECTURE: EDGE-CLOUD CONTINUUM
+------------------------------------------------------------------------
 
-<p align="center">
-  <em>MS (Research) Scholar @ IIT Indore[cite: 5] | IndiaAI Fellow[cite: 5] | Systems & Distributed Computing Wizard</em>
-</p>
+ > [CORE DIRECTIVE]:
+   Building fault-tolerant serverless paradigms, stripping away 
+   centralized control bottlenecks, and orchestrating high-performance 
+   distributed systems.
 
----
+ > [THE ARSENAL]:
+   [Languages]     --> C, C++, Go, Python, Bash
+   [Infrastructure]--> AWS, Docker, Kubernetes, Linux, Git
+   [Paradigms]     --> Serverless Computing, Distributed Systems, FaaS
 
-### ⚡ What Drives Me
-I love living at the intersection of low-level systems programming and distributed architectures. My current playground revolves around building fault-tolerant serverless paradigms, eliminating centralized control bottlenecks, and orchestrating high-performance edge-cloud computing pipelines.
+ > [ACTIVE FREQUENCIES]:
+   * Low-level systems programming & microarchitecture workflows
+   * Decentralized task offloading & serverless edge orchestration
+   * High-availability cluster management and network resilience
 
----
+ > [TRANSMISSION LINES]:
+   * GitHub:    [github.com/prathamesh-2214](https://github.com/prathamesh-2214)
+   * LinkedIn:  [linkedin.com/in/prathamesh-d-a71360219](https://linkedin.com/in/prathamesh-d-a71360219)
+   * Direct:    ms2504101008@iiti.ac.in
 
-### 🛠️ The Arsenal
-* **Languages:** C, C++, Go, Python, SQL, Bash[cite: 5]
-* **Cloud & Infrastructure:** AWS (Certified Solutions Architect – Associate)[cite: 5], Docker, Kubernetes, Linux, GitLab[cite: 5]
-* **Frameworks & Tooling:** TensorFlow[cite: 5], Streamlit[cite: 5]
-
----
-
-### 🏅 Trophies & Milestones
-
-* **IndiaAI Fellowship** — Awarded by IndiaAI (Feb. 2026)[cite: 5]
-* **Gold Medal** — B.Tech CSE Batch of 2024, DYPIU, Pune[cite: 5]
-* **Thumbs Up Award** — Recognition for outstanding engineering contributions at Pitney Bowes (Nov. 2023)[cite: 5]
-
----
-
-### 🌐 Let's Connect
-
-* **LinkedIn:** [prathamesh-d-a71360219](https://linkedin.com/in/prathamesh-d-a71360219)[cite: 5]
-* **Mail:** ms2504101008@iiti.ac.in / deshpandeprathamesh137@gmail.com[cite: 5]
-
----
-
-<p align="center">
-  <em>"ज्ञानम् अनहिताय"[cite: 5]</em>
-</p>
+========================================================================
+                     "ज्ञानम् अनहिताय"
+========================================================================
