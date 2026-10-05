@@ -14,10 +14,6 @@
       <sub><b>C++</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go"/><br>
-      <sub><b>Go</b></sub>
-    </td>
-    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br>
       <sub><b>Python</b></sub>
     </td>
